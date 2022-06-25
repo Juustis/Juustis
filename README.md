@@ -15,7 +15,7 @@
   
 [![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juustis&theme=blue-green)](https://github.com/Juustis)
   </BR>
-[![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=Juustis&theme=bluee-green)](https://github.com/Juustis)
+[![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=Juustis&theme=blue-green)](https://github.com/Juustis)
 
 </div>
 </BR>
