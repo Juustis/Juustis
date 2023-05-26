@@ -1,7 +1,7 @@
 <div align="center">
 <BR>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&color=AD33F7BD&background=00FF6C00&vCenter=true&width=435&lines=Hey+i'm+Juustis;I'm+16+years+old+;I+love+coffee+;Without+coffee+i'm+tired)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=500&color=AD33F7BD&background=00FF6C00&center=true&vCenter=true&width=435&lines=Hey+i'm+Juustis;I'm+16+years+old+;I+love+coffee+;Without+coffee+i'm+tired)](https://git.io/typing-svg)
 </div>
 <tr>
 <BR>
